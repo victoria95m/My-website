@@ -1,0 +1,118 @@
+.frontend, .bajo{
+   background-color:#D2B48C;
+}
+.decor-links:hover{
+text-decoration: underline;
+text-decoration-color: #5B0101;
+}
+
+.decor-logo{
+   text-decoration: none;
+   color: black;
+}
+
+.logo-style{
+   border: solid black 1px;
+   border-radius: 2px;
+}
+
+
+.logo-style:hover{
+   border: solid #c35050 1px;
+}
+
+
+.decor-name{
+   -webkit-text-stroke: 0.9px black;
+ color:#c35050 ;
+}
+
+.viki-sh{
+
+      text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+    }
+    
+.color-zilla{
+   background-color:#FDF7E2;
+}
+
+
+.montserrat{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.roboto-regular {
+   font-family: "Roboto", sans-serif;
+   font-weight: 300;
+   font-style: normal;
+ }
+
+ .video-container {
+   display: grid;
+   place-items: center;
+   height: 35vh; 
+ }
+ 
+ .button-link {
+   display:center;
+   padding: 10px 20px;
+   background-color:  #E6E2D3;/* Синий цвет фона */
+   color: black;/* Белый текст */
+   text-align: center;
+   border-radius: 2px;
+   border: solid black 1px;
+   text-decoration: none; /* Убрать подчёркивание текста */
+   font-size: 16px;
+   transition: background-color 0.3s; /* Плавное изменение фона при наведении */
+   font-family: "Montserrat", sans-serif;
+ }
+ 
+.button-link:hover {
+   background-color:  #D2B48C;
+   color:   #5B0101;
+   
+   /* Темно-синий цвет при наведении 
+   border: solid #c35050 1px;
+   color: #c35050;
+
+ */
+}
+ .my-cv{
+   display: flex;
+   justify-content: center; 
+   align-items: center; 
+   height: 50px;
+}
+.victoria-foto{
+   
+
+   border-radius: 0 40px ;
+
+   box-shadow:5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+.brackets{
+   color: #5B0101; 
+  
+}
+
+.social-media{
+   color:rgb(42, 36, 64) ;
+   text-decoration: none;
+}
+
+.cloud{
+   border-radius: 0 40px ;
+   background-color: #E6E2D3;
+   color: black;
+   text-align: center;
+   padding: 18px;
+   
+   box-shadow:5px 5px 5px rgba(0, 0, 0, 0.3);
+} 
+
+.decor-img{
+  
+} 
